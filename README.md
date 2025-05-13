@@ -1,4 +1,0 @@
-Collaborative Text Editor
-
-Overview
-
